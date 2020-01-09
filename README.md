@@ -1,32 +1,28 @@
 # Adrenaline Gamer 2  version 1.1.5
 
 ### Screenshot:
-![alt text](https://i.imgur.com/MKMfxy9.jpg "main menu")
+![alt text](https://i.imgur.com/fYxfvE0.png "main menu")
 
 ```
 Installation
 ------------
 1. move the folder "ag2" into Steam/steamapps/sourcemods
 2. restart Steam
-3. ag2 should now be in your library
-
-User's Guide
-------------
-Please refer to the following url: http://www.adrenalinegamer2.com/index.php?site=articles&action=show&articlesID=10
-
+3. Adrenaline Gamer 2 should now be in your library
 
 Contributors
 ------------
 Core Development Team:
 	- J@nek : Lead Coder
 	- RATICIDE : Coder
+	- The Gman : Improvements
 
 Official Mappers:
 	- aRm : pg_sacred, pg_broken, pg_fragging_yard, pg_the_longestday, pg_stalkx (remake of original one)
 	- keved : pg_boot_camp, pg_np_refinery_b5
 	- boshed aka Zaxx : pg_datacore (and few models : gauss ammo, longjump, bases for flags, textures of egon), pg_stadium
 	- Sadist : pg_catmouse
-	- The Gman : pg_city17
+	- The Gman : pg_city16
 
 Intro movie maker:
 	- RATICIDE (Adrenaline Gamer 2)
@@ -88,9 +84,18 @@ Beta testers for previous versions:
 
 ChangeLogs (dates are dd/mm/yyyy)
 ---------------------------------:
-Version AG2 1.1.5 : 07/07/2010
-. Added : map pg_city17 by The Gman
-. Changed : "in-eye death" set to off by default
+Version AG2 1.1.5 : 09/01/2020
+. Added : map pg_city16 by The Gman
+. Added : episode 2 ammo crates for mappers
+. Changed : new textures for egon
+. Changed : high quality menu background
+. Changed : new item sounds
+. Changed : gauss model to hl2 one
+. Changed : improved gauss and egon sounds
+. Changed : menu hud color to gray
+. Fixed : russian and english localization
+. Fixed : 357 grip
+. Fixed : crossbow sounds, button sounds, pistol, 357, shotgun and smg reload sounds
 
 Version AG2 1.02 : 07/07/2010
 . Added : in teamplay game mods, HUD is getting color of your team (can be prevented in Advanced Player menu)
