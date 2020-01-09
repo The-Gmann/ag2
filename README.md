@@ -1,7 +1,7 @@
 # Adrenaline Gamer 2  version 1.0.3
 
 ### Screenshot:
-![alt text](https://i.imgur.com/fYxfvE0.png "main menu")
+![alt text](https://i.imgur.com/RfWhOFH.jpg "main menu")
 
 ```
 Installation
