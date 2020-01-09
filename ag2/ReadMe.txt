@@ -23,25 +23,23 @@ HL2DM Pro development team.
 
 Installation
 ------------
-Please refer to the following url: http://www.adrenalinegamer2.com/index.php?site=articles&action=show&articlesID=12
-
-
-User's Guide
-------------
-Please refer to the following url: http://www.adrenalinegamer2.com/index.php?site=articles&action=show&articlesID=10
-
+1. move the folder "ag2" into Steam/steamapps/sourcemods
+2. restart Steam
+3. Adrenaline Gamer 2 should now be in your library
 
 Contributors
 ------------
 Core Development Team:
 	- J@nek : Lead Coder
 	- RATICIDE : Coder
+	- The Gman : Improvements
 
 Official Mappers:
 	- aRm : pg_sacred, pg_broken, pg_fragging_yard, pg_the_longestday, pg_stalkx (remake of original one)
 	- keved : pg_boot_camp, pg_np_refinery_b5
 	- boshed aka Zaxx : pg_datacore (and few models : gauss ammo, longjump, bases for flags, textures of egon), pg_stadium
 	- Sadist : pg_catmouse
+	- The Gman : pg_city16
 
 Intro movie maker:
 	- RATICIDE (Adrenaline Gamer 2)
@@ -103,6 +101,19 @@ Beta testers for previous versions:
 
 ChangeLogs (dates are dd/mm/yyyy)
 ---------------------------------:
+Version AG2 1.1.5 : 09/01/2020
+. Added : map pg_city16 by The Gman
+. Added : episode 2 ammo crates for mappers
+. Changed : new textures for egon
+. Changed : high quality menu background
+. Changed : new item sounds
+. Changed : gauss model to hl2 one
+. Changed : improved gauss and egon sounds
+. Changed : menu hud color to gray
+. Fixed : russian and english localization
+. Fixed : 357 grip
+. Fixed : crossbow sounds, button sounds, pistol, 357, shotgun and smg reload sounds
+
 Version AG2 1.02 : 07/07/2010
 . Added : in teamplay game mods, HUD is getting color of your team (can be prevented in Advanced Player menu)
 . Added : music in main menu
@@ -303,7 +314,7 @@ Version HL2DMPro 1.8.1 : 31/01/2008
 . Changed : tripmine, satchels and dropped weapons are removed from battle field when starting a new round in Arena, Tourney, LTS, CTF, CTF Arcade and Warball
 . Changed : ability to put flag on your back in CTF and CTFArcade game mods (use "reload" when you have gravgun)
 . Changed : mp_falldamage can be used in 4 ways : 0=10 damage, 1=realistic damage, <0=0 damage, >1=fixed amount of damage
-. Fixed : "Half-Life 2 DM Pro" is now displayed when a friend is joining a "HL² DM Pro" server (instead of Half-Life 2: Deathmatch)
+. Fixed : "Half-Life 2 DM Pro" is now displayed when a friend is joining a "HLÂ² DM Pro" server (instead of Half-Life 2: Deathmatch)
 . Fixed : MountSteamContent error message
 . Fixed : command menu width for high resolution
 . Fixed : server crashed sometimes in Fugitive mod
