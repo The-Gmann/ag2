@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"Models/Items/ammocrate_items"
+	"$surfaceprop"	"metalpanel"
+}

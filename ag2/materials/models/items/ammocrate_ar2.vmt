@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"Models/Items/ammocrate_ar2"
+	"$surfaceprop"	"default"
+}

@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Weapons/V_Gauss/glowtube"
+	"$bumpmap" "models/Weapons/V_Gauss/glowtube_nrm"
+	"$phongexponenttexture" "models/Weapons/V_Gauss/glowtube_phong"
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"	"[0.045 0.045 0.045]"
+	"$envmapfresnel"	"1"
+
+
+	"$phong"				"1"
+	"$phongboost"			"0.75"
+	"$phongfresnelranges"		"[1 3 4]"
+	"$halflambert"			"1"
+	"$rimlight"			"1"
+	"$rimlightexponent"			"100"
+	"$rimlightboost"			".5"
+	"$rimmask"			"1"
+}

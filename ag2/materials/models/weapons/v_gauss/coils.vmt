@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Weapons/V_Gauss/coils"
+	"$bumpmap" "models/Weapons/V_Gauss/coils_normal"
+}

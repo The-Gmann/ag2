@@ -2,8 +2,5 @@
 {
 	"$baseTexture" "Models/Weapons/egon/v_egon"
 	"$bumpmap" "Models/Weapons/egon/v_egon_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" "1"
-	"$envmaptint" "[.8 .8 .8]"
 	"$model" "1"
 }

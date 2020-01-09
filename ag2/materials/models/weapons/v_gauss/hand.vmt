@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Weapons/V_hand/v_hand_sheet"
+	"$bumpmap" "models/Weapons/V_hand/v_hand_sheet_normal"
+
+// -- From here down is new stuff which will only be applied if $phong is set to 1 --
+	"$phong" "1"
+	$phongexponenttexture 	"models/weapons/v_hand/v_hand_sheet_exponent"
+	"$phongboost"	"0.02"
+	"$phongfresnelranges"	"[.2 0.4 1]"
+
+
+}

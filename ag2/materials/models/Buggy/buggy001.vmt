@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/Buggy/buggy001"
+	"$bumpmap" "Models/Buggy/buggy001_normal"
+	"$surfaceprop" "metal"
+}
+
+
