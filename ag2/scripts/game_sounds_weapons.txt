@@ -431,6 +431,7 @@
 	"channel"		"CHAN_WEAPON"
 	"volume"		"0.7"
 	"soundlevel"		"SNDLVL_95dB"
+	"pitch"		"80,120"
 
 	"rndwave"
 	{
@@ -444,6 +445,7 @@
 	"channel"		"CHAN_WEAPON"
 	"volume"		"0.7"
 	"soundlevel"		"SNDLVL_95dB"
+	"pitch"		"85,115"
 
 	"wave"			"weapons/gauss/fire1.wav"
 }

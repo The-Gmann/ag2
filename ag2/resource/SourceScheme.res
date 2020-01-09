@@ -17,9 +17,9 @@ Scheme
 	{
 		// base colors
 		"White"				"255 255 255 255"
-		"OffWhite"			"236 236 236 255"// JANEK "216 216 216 255"
-		"DullWhite"			"212 212 212 255" // JANEK "142 142 142 255"
-		"Orange"			"216 0 0 255" // JANEK "255 155 0 255"
+		"OffWhite"			"216 216 216 255"
+		"DullWhite"			"142 142 142 255"
+		"Orange"			"255 155 0 255"
 		"TransparentBlack"	"0 0 0 128"
 		"Black"				"0 0 0 255"
 
@@ -38,9 +38,9 @@ Scheme
 	BaseSettings
 	{
 		// vgui_controls color specifications
-		Border.Bright					"205 0 0 196" // JANEK "200 200 200 196"	// the lit side of a control
-		Border.Dark					"45 0 0 196"	// JANEK "40 40 40 196"		// the dark/unlit side of a control
-		Border.Selection				"40 0 0 196" // JANEK "0 0 0 196"			// the additional border color for displaying the default/selected button
+		Border.Bright					"200 200 200 196"	// the lit side of a control
+		Border.Dark						"40 40 40 196"		// the dark/unlit side of a control
+		Border.Selection				"0 0 0 196"			// the additional border color for displaying the default/selected button
 
 		Button.TextColor				"White"
 		Button.BgColor					"Blank"
@@ -70,17 +70,17 @@ Scheme
 		Frame.TitleTextInsetX			16
 		Frame.ClientInsetX				8
 		Frame.ClientInsetY				6
-		Frame.BgColor					"155 0 0 224" [$WIN32] // JANEK "160 160 160 128" [$WIN32]
+		Frame.BgColor					"160 160 160 128"	[$WIN32]
 		Frame.BgColor					"80 80 80 192"		[$X360]
-		Frame.OutOfFocusBgColor			"155 0 0 64" [$WIN32] // JANEK "160 160 160 32" [$WIN32]
+		Frame.OutOfFocusBgColor			"160 160 160 32"	[$WIN32]
 		Frame.OutOfFocusBgColor			"80 80 80 192"		[$X360]
 		Frame.FocusTransitionEffectTime	"0.3"							// time it takes for a window to fade in/out on focus/out of focus
 		Frame.TransitionEffectTime		"0.3"				[$WIN32]	// time it takes for a window to fade in/out on open/close
 		Frame.TransitionEffectTime		"0.2"				[$X360]		// time it takes for a window to fade in/out on open/close
 		Frame.AutoSnapRange				"0"
-		FrameGrip.Color1				"205 0 0 196" // JANEK "200 200 200 196"
+		FrameGrip.Color1				"200 200 200 196"
 		FrameGrip.Color2				"0 0 0 196"
-		FrameTitleButton.FgColor		"205 0 0 196" // JANEK "200 200 200 196"
+		FrameTitleButton.FgColor		"200 200 200 196"
 		FrameTitleButton.BgColor		"Blank"
 		FrameTitleButton.DisabledFgColor	"255 255 255 192"
 		FrameTitleButton.DisabledBgColor	"Blank"
@@ -103,8 +103,8 @@ Scheme
 		Label.TextBrightColor			"White"
 		Label.SelectedTextColor			"White"
 		Label.BgColor					"Blank"
-		Label.DisabledFgColor1			"156 156 156 255" // JANEK "117 117 117 255"
-		Label.DisabledFgColor2			"50 50 50 255" // JANEK "30 30 30 255"
+		Label.DisabledFgColor1			"117 117 117 255"
+		Label.DisabledFgColor2			"30 30 30 255"
 
 		ListPanel.TextColor					"OffWhite"
 		ListPanel.TextBgColor				"Blank"
@@ -115,7 +115,7 @@ Scheme
 		ListPanel.EmptyListInfoTextColor	"OffWhite"
 
 		Menu.TextColor					"White"
-		Menu.BgColor					"155 0 0 64" // JANEK "160 160 160 64"
+		Menu.BgColor					"160 160 160 64"
 		Menu.ArmedTextColor				"Black"
 		Menu.ArmedBgColor				"Orange"
 		Menu.TextInset					"6"
@@ -124,7 +124,7 @@ Scheme
 		Panel.BgColor					"Blank"
 
 		ProgressBar.FgColor				"White"
-		ProgressBar.BgColor				"45 0 0 255" // JANEK "TransparentBlack"
+		ProgressBar.BgColor				"TransparentBlack"
 
 		PropertySheet.TextColor			"OffWhite"
 		PropertySheet.SelectedTextColor	"White"
@@ -147,8 +147,8 @@ Scheme
 		ScrollBarButton.DepressedFgColor	"White"
 		ScrollBarButton.DepressedBgColor	"Blank"
 
-		ScrollBarSlider.FgColor				"205 0 0 255" // JANEK "Blank"			// nob color
-		ScrollBarSlider.BgColor				"128 0 0 255" // JANEK "255 255 255 64"	// slider background color
+		ScrollBarSlider.FgColor				"Blank"			// nob color
+		ScrollBarSlider.BgColor				"255 255 255 64"	// slider background color
 
 		SectionedListPanel.HeaderTextColor	"White"
 		SectionedListPanel.HeaderBgColor	"Blank"
@@ -161,11 +161,11 @@ Scheme
 		SectionedListPanel.OutOfFocusSelectedTextColor	"Black"
 		SectionedListPanel.OutOfFocusSelectedBgColor	"255 155 0 128"
 
-		Slider.NobColor				"108 0 0 255" // JANEK "108 108 108 255"
+		Slider.NobColor				"108 108 108 255"
 		Slider.TextColor			"180 180 180 255"
-		Slider.TrackColor			"31 0 0 255" // JANEK "31 31 31 255"
-		Slider.DisabledTextColor1	"156 156 156 255" // JANEK "117 117 117 255"
-		Slider.DisabledTextColor2	"50 50 50 255" // JANEK "30 30 30 255"
+		Slider.TrackColor			"31 31 31 255"
+		Slider.DisabledTextColor1	"117 117 117 255"
+		Slider.DisabledTextColor2	"30 30 30 255"
 
 		TextEntry.TextColor			"OffWhite"
 		TextEntry.BgColor			"TransparentBlack"

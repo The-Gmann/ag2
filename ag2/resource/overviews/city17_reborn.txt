@@ -1,0 +1,9 @@
+"mapname"
+{
+	"material"	"overviews/city17_reborn"	
+	"pos_x"		"-1059"	
+	"pos_y"		"978"	
+	"scale"		"2.00" 	
+	"rotate"	"0"	
+	"zoom"		"1.0"	
+}
