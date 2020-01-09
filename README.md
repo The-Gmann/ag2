@@ -10,6 +10,12 @@ Installation
 2. restart Steam
 3. Adrenaline Gamer 2 should now be in your library
 
+How to fix server browser
+------------
+1. go to "find servers" menu
+2. uncheck "Show map list"
+3. done, you can now see servers hosted for ag2
+
 Contributors
 ------------
 Core Development Team:
