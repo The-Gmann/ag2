@@ -1,0 +1,11 @@
+Map name: City 16
+Game modes: All Game Modes for Adrenaline Gamer 2 (AG2)
+http://www.adrenalinegamer2.com
+=============================================
+Author: The Gman
+Email: yajayrysik@gmail.com
+Description: Medium size map for AG2 HL2 mod
+=============================================
+Custom sounds: No
+Custom models: No
+Custom textures: Yes
