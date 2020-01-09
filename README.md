@@ -1,4 +1,4 @@
-# Adrenaline Gamer 2  version 1.0.2
+# Adrenaline Gamer 2  version 1.1.5
 
 ### Screenshot:
 ![alt text](https://i.imgur.com/MKMfxy9.jpg "main menu")
@@ -26,6 +26,7 @@ Official Mappers:
 	- keved : pg_boot_camp, pg_np_refinery_b5
 	- boshed aka Zaxx : pg_datacore (and few models : gauss ammo, longjump, bases for flags, textures of egon), pg_stadium
 	- Sadist : pg_catmouse
+	- The Gman : pg_city17
 
 Intro movie maker:
 	- RATICIDE (Adrenaline Gamer 2)
@@ -87,6 +88,10 @@ Beta testers for previous versions:
 
 ChangeLogs (dates are dd/mm/yyyy)
 ---------------------------------:
+Version AG2 1.1.5 : 07/07/2010
+. Added : map pg_city17 by The Gman
+. Changed : "in-eye death" set to off by default
+
 Version AG2 1.02 : 07/07/2010
 . Added : in teamplay game mods, HUD is getting color of your team (can be prevented in Advanced Player menu)
 . Added : music in main menu
