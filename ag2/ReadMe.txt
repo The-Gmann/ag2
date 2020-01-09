@@ -101,7 +101,7 @@ Beta testers for previous versions:
 
 ChangeLogs (dates are dd/mm/yyyy)
 ---------------------------------:
-Version AG2 1.1.5 : 09/01/2020
+Version AG2 1.0.3 : 09/01/2020
 . Added : map pg_city16 by The Gman
 . Added : episode 2 ammo crates for mappers
 . Changed : new textures for egon
