@@ -18,8 +18,9 @@ redistribution of this software in any form without the consent of the
 Adrenaline Gamer 2 development team.
 In other words, do not put this program onto a CD containing 
 shareware/freeware programs that will be sold without first consulting the 
-HL2DM Pro development team.
+AG2's development team.
 
+This mod's gamebanana page: https://gamebanana.com/games/7786
 
 Installation
 ------------
