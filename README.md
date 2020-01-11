@@ -3,6 +3,8 @@
 ### Screenshot:
 ![alt text](https://i.imgur.com/RfWhOFH.jpg "main menu")
 
+This mod's gamebanana page: https://gamebanana.com/games/7786
+
 ```
 Installation
 ------------
